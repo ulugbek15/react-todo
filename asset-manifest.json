@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae1467d4.chunk.css",
+    "main.js": "/static/js/main.8cb50aad.chunk.js",
+    "main.js.map": "/static/js/main.8cb50aad.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.afb0b43b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.afb0b43b.js.map",
+    "static/js/2.d6afd71b.chunk.js": "/static/js/2.d6afd71b.chunk.js",
+    "static/js/2.d6afd71b.chunk.js.map": "/static/js/2.d6afd71b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ae1467d4.chunk.css.map": "/static/css/main.ae1467d4.chunk.css.map",
+    "static/js/2.d6afd71b.chunk.js.LICENSE.txt": "/static/js/2.d6afd71b.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/amarante-v10-latin-regular.cb76a6df.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afb0b43b.js",
+    "static/js/2.d6afd71b.chunk.js",
+    "static/css/main.ae1467d4.chunk.css",
+    "static/js/main.8cb50aad.chunk.js"
+  ]
+}
